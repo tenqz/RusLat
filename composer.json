@@ -1,0 +1,12 @@
+{
+    "name": "tenqz/ruslat",
+    "description": "Simple transliterator from Russian to Latin",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Oleg Patsay",
+            "email": "smmartbiz@gmail.com"
+        }
+    ],
+    "require": {}
+}
