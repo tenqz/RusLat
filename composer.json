@@ -2,6 +2,7 @@
     "name": "tenqz/ruslat",
     "description": "Simple transliterator from Russian to Latin",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Oleg Patsay",
