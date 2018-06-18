@@ -5,8 +5,8 @@
 */
 class RusLat
 {
-	public $initialString;
-	public $translitString;
+	private $initialString;
+	private $translitString;
 
 	function __construct($string)
 	{
